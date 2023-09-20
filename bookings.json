@@ -1,0 +1,847 @@
+[
+    {
+        "airline": "United Airlines",
+        "fromDate": "20210104",
+        "fromDest": "FRA",
+        "id": "{11886343-ed6d-4e56-b6ad-355b7b0dd2a0}",
+        "price": 1499,
+        "toDate": "20210104",
+        "toDest": "ORD",
+        "type": "Flight"
+    },
+    {
+        "company": "Avis",
+        "fromDate": "20210104",
+        "id": "{dd381de7-4395-46e8-aca7-042a927bfd4d}",
+        "pickupLocation": "Chicago OHare Intl Airport",
+        "price": 466,
+        "returnLocation": "Chicago OHare Intl Airport",
+        "toDate": "20210109",
+        "type": "RentalCar"
+    },
+    {
+        "fromDate": "20210104",
+        "hotel": "Mark Twain Hotel",
+        "id": "{e03a3d08-4b96-47c6-8bb3-92b6c37194ff}",
+        "price": 501.03,
+        "toDate": "20210109",
+        "town": "Peoria",
+        "type": "Hotel"
+    },
+    {
+        "airline": "United Airlines",
+        "fromDate": "20210109",
+        "fromDest": "ORD",
+        "id": "{b142db3f-026d-4117-96fe-9a892ccc3c4d}",
+        "price": 1358,
+        "toDate": "20210110",
+        "toDest": "FRA",
+        "type": "Flight"
+    },
+    {
+        "airline": "Air France",
+        "fromDate": "20210608",
+        "fromDest": "STR",
+        "id": "{58330d78-9a6b-4216-bb26-ec0c28d19c17}",
+        "price": 330,
+        "toDate": "20210608",
+        "toDest": "CDG",
+        "type": "Flight"
+    },
+    {
+        "fromDate": "20210608",
+        "hotel": "Citadines Saint-Germain-des-Pr�s",
+        "id": "{fd4d4b07-ca5c-467d-a5cb-1b5bea616393}",
+        "price": 751.03,
+        "toDate": "20210612",
+        "town": "Paris",
+        "type": "Hotel"
+    },
+    {
+        "airline": "Air France",
+        "fromDate": "20210612",
+        "fromDest": "CDG",
+        "id": "{5c264577-87fc-45ed-8c68-b0c3106fe8cd}",
+        "price": 290,
+        "toDate": "20210612",
+        "toDest": "STR",
+        "type": "Flight"
+    },
+    {
+        "airline": "Air Berlin",
+        "fromDate": "20210201",
+        "fromDest": "HAM",
+        "id": "{8226ed8f-5edb-4d4d-94a0-87cb17521810}",
+        "price": 258.03,
+        "toDate": "20210201",
+        "toDest": "MUC",
+        "type": "Flight"
+    },
+    {
+        "airline": "Air Berlin",
+        "fromDate": "20210201",
+        "fromDest": "MUC",
+        "id": "{067818d9-a9ed-47d5-b0af-d43e5fe2b377}",
+        "price": 251.03,
+        "toDate": "20210201",
+        "toDest": "HAM",
+        "type": "Flight"
+    },
+    {
+        "airline": "Vueling Airlines",
+        "fromDate": "20210401",
+        "fromDest": "MUC",
+        "id": "{616eb0a4-df18-45d2-81a2-b629d43ee1b7}",
+        "price": 316.01,
+        "toDate": "20210401",
+        "toDest": "BCN",
+        "type": "Flight"
+    },
+    {
+        "company": "Europcar",
+        "fromDate": "20210401",
+        "id": "{1644a44b-00ea-4a87-a90d-f597a7b19155}",
+        "pickupLocation": "BARCELONA FLUGHAFEN TERMINAL 1",
+        "price": 111.01,
+        "returnLocation": "BARCELONA FLUGHAFEN TERMINAL 1",
+        "toDate": "20210404",
+        "type": "RentalCar"
+    },
+    {
+        "fromDate": "20210401",
+        "hotel": "Tarraco Park",
+        "id": "{bc017122-e4dd-4844-95a2-8737033c01db}",
+        "price": 381.01,
+        "toDate": "20210405",
+        "town": "Tarragona",
+        "type": "Hotel"
+    },
+    {
+        "airline": "Vueling Airlines",
+        "fromDate": "20210404",
+        "fromDest": "BCN",
+        "id": "{4119b7a0-39c3-4515-8fbf-1f5e5e4c6cca}",
+        "price": 288.93,
+        "toDate": "20210404",
+        "toDest": "MUC",
+        "type": "Flight"
+    },
+    {
+        "airline": "Lufthansa",
+        "fromDate": "20210602",
+        "fromDest": "STR",
+        "id": "{9abb6e16-5f4f-40fc-8190-4afd6629176b}",
+        "price": 277.01,
+        "toDate": "20210603",
+        "toDest": "WAW",
+        "type": "Flight"
+    },
+    {
+        "company": "Europcar",
+        "fromDate": "20210602",
+        "id": "{dfcc90c4-8ba1-4a7e-b977-db3c440e07e1}",
+        "pickupLocation": "WARSCHAU CHOPIN FLUGHAFEN",
+        "price": 167.01,
+        "returnLocation": "WARSCHAU CHOPIN FLUGHAFEN",
+        "toDate": "20210603",
+        "type": "RentalCar"
+    },
+    {
+        "fromDate": "20210602",
+        "hotel": "Residence 1898",
+        "id": "{d4224c9b-09d1-4b07-bfbd-b9b4b31db69f}",
+        "price": 256.02,
+        "toDate": "20210603",
+        "town": "Warschau",
+        "type": "Hotel"
+    },
+    {
+        "airline": "Lufthansa",
+        "fromDate": "20210603",
+        "fromDest": "WAW",
+        "id": "{a5287482-f595-4b89-b84b-62ec4a1aa34e}",
+        "price": 288.93,
+        "toDate": "20210603",
+        "toDest": "STR",
+        "type": "Flight"
+    },
+    {
+        "airline": "Lufthansa",
+        "fromDate": "20210604",
+        "fromDest": "FRA",
+        "id": "{2c680ff8-06ab-40bb-978f-8be13b9f3c39}",
+        "price": 2892.04,
+        "toDate": "20210605",
+        "toDest": "GRU",
+        "type": "Flight"
+    },
+    {
+        "airline": "TAM Linhas A�reas",
+        "fromDate": "20210605",
+        "fromDest": "GRU",
+        "id": "{9a14e3af-cce4-4121-b232-a78e29854583}",
+        "price": 234.91,
+        "toDate": "20210605",
+        "toDest": "POA",
+        "type": "Flight"
+    },
+    {
+        "company": "Hertz",
+        "fromDate": "20210605",
+        "id": "{876b9e6a-18b1-4816-9ad2-07e16876ca42}",
+        "pickupLocation": "Porto Alegre Airport",
+        "price": 1345.82,
+        "returnLocation": "Porto Alegre Airport",
+        "toDate": "20210617",
+        "type": "RentalCar"
+    },
+    {
+        "fromDate": "20210605",
+        "hotel": "Radisson",
+        "id": "{7b13e7ae-8138-4fe4-84f9-57dff3843548}",
+        "price": 2986,
+        "toDate": "20210617",
+        "town": "Porto Alegre",
+        "type": "Hotel"
+    },
+    {
+        "airline": "TAM Linhas A�reas",
+        "fromDate": "20210617",
+        "fromDest": "POA",
+        "id": "{23c0f651-dca1-4c97-b82e-08fadbf04ead}",
+        "price": 224.19,
+        "toDate": "20210617",
+        "toDest": "GRU",
+        "type": "Flight"
+    },
+    {
+        "airline": "Lufthansa",
+        "fromDate": "20210617",
+        "fromDest": "GRU",
+        "id": "{a0f41547-2800-4943-a2f6-d7faf33d308b}",
+        "price": 2634.24,
+        "toDate": "20210618",
+        "toDest": "FRA",
+        "type": "Flight"
+    },
+    {
+        "airline": "Indian Airlines",
+        "fromDate": "20210323",
+        "fromDest": "FRA",
+        "id": "{3af7387d-ec3d-494c-b645-13af2a60891e}",
+        "price": 3298.08,
+        "toDate": "20210323",
+        "toDest": "DEL",
+        "type": "Flight"
+    },
+    {
+        "fromDate": "20210323",
+        "hotel": "The Leela Palace",
+        "id": "{3e2041fb-9fda-4395-aa69-1ddc4d27e236}",
+        "price": 556.02,
+        "toDate": "20210325",
+        "town": "New Delhi",
+        "type": "Hotel"
+    },
+    {
+        "airline": "Jet Airways",
+        "fromDate": "20210325",
+        "fromDest": "DEL",
+        "id": "{f9be660a-c558-41c6-9ee8-084722ddab58}",
+        "price": 218.78,
+        "toDate": "20210325",
+        "toDest": "BLR",
+        "type": "Flight"
+    },
+    {
+        "fromDate": "20210325",
+        "hotel": "The Oberoi",
+        "id": "{dc0f4786-ab2e-45a2-9215-06cd94e90e4a}",
+        "price": 611.43,
+        "toDate": "20210328",
+        "town": "Bangalore",
+        "type": "Hotel"
+    },
+    {
+        "airline": "Singapur Airlines",
+        "fromDate": "20210328",
+        "fromDest": "BLR",
+        "id": "{bab3aa0c-a922-420e-84df-73d3242bbf2f}",
+        "price": 2778.18,
+        "toDate": "20210329",
+        "toDest": "SIN",
+        "type": "Flight"
+    },
+    {
+        "airline": "All Nippon Airways",
+        "fromDate": "20210329",
+        "fromDest": "SIN",
+        "id": "{5360f6bb-38ec-4992-8ebe-c3f63356fb1c}",
+        "price": 2543.21,
+        "toDate": "20210329",
+        "toDest": "HND",
+        "type": "Flight"
+    },
+    {
+        "fromDate": "20210329",
+        "hotel": "Daiichi Hotel Annex",
+        "id": "{af9ae9e2-3ff2-480e-98bb-1fdc97cd3392}",
+        "price": 611.43,
+        "toDate": "20210402",
+        "town": "Tokyo",
+        "type": "Hotel"
+    },
+    {
+        "airline": "Lufthansa",
+        "fromDate": "20210402",
+        "fromDest": "HND",
+        "id": "{df684a0c-f069-46bb-a120-4f21884b48f6}",
+        "price": 4543.21,
+        "toDate": "20210402",
+        "toDest": "FRA",
+        "type": "Flight"
+    },
+    {
+        "airline": "Vueling Airlines",
+        "fromDate": "20210503",
+        "fromDest": "MUC",
+        "id": "{2fafd8b7-e6e5-4088-934a-de415b021ae7}",
+        "price": 304.01,
+        "toDate": "20210503",
+        "toDest": "BCN",
+        "type": "Flight"
+    },
+    {
+        "company": "Europcar",
+        "fromDate": "20210503",
+        "id": "{ea4e57a1-b679-4ebd-822c-5017d4f056a9}",
+        "pickupLocation": "BARCELONA FLUGHAFEN TERMINAL 1",
+        "price": 123.01,
+        "returnLocation": "BARCELONA FLUGHAFEN TERMINAL 1",
+        "toDate": "20210505",
+        "type": "RentalCar"
+    },
+    {
+        "fromDate": "20210503",
+        "hotel": "Tarraco Park",
+        "id": "{deb2526d-9525-4b9d-bc46-c365144df820}",
+        "price": 356.01,
+        "toDate": "20210505",
+        "town": "Tarragona",
+        "type": "Hotel"
+    },
+    {
+        "airline": "Vueling Airlines",
+        "fromDate": "20210505",
+        "fromDest": "BCN",
+        "id": "{82f53656-0994-4a43-a6b6-a4db8d6c5b41}",
+        "price": 283.93,
+        "toDate": "20210505",
+        "toDest": "MUC",
+        "type": "Flight"
+    },
+    {
+        "airline": "Air Berlin",
+        "fromDate": "20210101",
+        "fromDest": "MUC",
+        "id": "{5b1a14ee-2684-47da-849a-11212dbf74ae}",
+        "price": 258.03,
+        "toDate": "20210101",
+        "toDest": "HAM",
+        "type": "Flight"
+    },
+    {
+        "fromDate": "20210101",
+        "hotel": "Hotel Atlantic",
+        "id": "{b79da7f5-740c-4178-9dac-efb6c7cb1e3e}",
+        "price": 1224.04,
+        "toDate": "20210112",
+        "town": "Hamburg",
+        "type": "Hotel"
+    },
+    {
+        "airline": "Air Berlin",
+        "fromDate": "20210112",
+        "fromDest": "HAM",
+        "id": "{ef1bb487-ac34-4be2-8bbb-606f44ac3245}",
+        "price": 251.03,
+        "toDate": "20210112",
+        "toDest": "MUC",
+        "type": "Flight"
+    },
+    {
+        "airline": "Austrian Airlines",
+        "fromDate": "20210809",
+        "fromDest": "FRA",
+        "id": "{3d49dabe-8fdd-4f18-9222-ee1dfdb2e873}",
+        "price": 187.93,
+        "toDate": "20210814",
+        "toDest": "VIE",
+        "type": "Flight"
+    },
+    {
+        "company": "Sixt",
+        "fromDate": "20210809",
+        "id": "{96f8a956-7adc-4bbb-8707-5db12b0fa805}",
+        "pickupLocation": "Wien-Schwechat Flughafen",
+        "price": 265.11,
+        "returnLocation": "Wien-Schwechat Flughafen",
+        "toDate": "20210814",
+        "type": "RentalCar"
+    },
+    {
+        "fromDate": "20210809",
+        "hotel": "Hotel Kummer",
+        "id": "{0bcc79f6-b1b8-4bb4-9ce2-a80871f33563}",
+        "price": 199.99,
+        "toDate": "20210814",
+        "town": "Wien",
+        "type": "Hotel"
+    },
+    {
+        "airline": "Austrian Airlines",
+        "fromDate": "20210814",
+        "fromDest": "VIE",
+        "id": "{8773f237-6f58-4d2f-96e9-0c4031b2ec63}",
+        "price": 167.01,
+        "toDate": "20210814",
+        "toDest": "FRA",
+        "type": "Flight"
+    },
+    {
+        "airline": "Rhein-Neckar Air",
+        "fromDate": "20210313",
+        "fromDest": "MHG",
+        "id": "{a9c48470-c649-496b-9568-e511e1dd9fe3}",
+        "price": 145,
+        "toDate": "20210313",
+        "toDest": "HAM",
+        "type": "Flight"
+    },
+    {
+        "company": "Europcar",
+        "fromDate": "20210313",
+        "id": "{f3d75d4c-6912-4681-b41c-d3afa209e5d1}",
+        "pickupLocation": "Hamburg Flughafen",
+        "price": 765.11,
+        "returnLocation": "Aarhus Flughafen",
+        "toDate": "20210321",
+        "type": "RentalCar"
+    },
+    {
+        "fromDate": "20210313",
+        "hotel": "Thomas Hotel Spa & Lifestyle",
+        "id": "{4830759b-7104-411c-8fe1-6cdb29f89d6d}",
+        "price": 424.04,
+        "toDate": "20210317",
+        "town": "Husum",
+        "type": "Hotel"
+    },
+    {
+        "fromDate": "20210318",
+        "hotel": "Radisson Blu Scandinavia",
+        "id": "{53a27b74-cb06-46da-b145-1e792e175a61}",
+        "price": 413.03,
+        "toDate": "20210321",
+        "town": "Aarhus",
+        "type": "Hotel"
+    },
+    {
+        "airline": "Scandinavian Airlines",
+        "fromDate": "20210321",
+        "fromDest": "AAR",
+        "id": "{49de6cbd-6e55-43c8-9a89-fe9c72b78e5c}",
+        "price": 245,
+        "toDate": "20210321",
+        "toDest": "TXL",
+        "type": "Flight"
+    },
+    {
+        "airline": "Rhein-Neckar Air",
+        "fromDate": "20210321",
+        "fromDest": "TXL",
+        "id": "{1a6d92e3-7a0c-41ee-9597-44081edadeda}",
+        "price": 165,
+        "toDate": "20210321",
+        "toDest": "MHG",
+        "type": "Flight"
+    },
+    {
+        "airline": "Lufthansa",
+        "fromDate": "20210216",
+        "fromDest": "FRA",
+        "id": "{6b233636-710c-423f-8504-0b810bf5ba07}",
+        "price": 2099,
+        "toDate": "20210216",
+        "toDest": "SFO",
+        "type": "Flight"
+    },
+    {
+        "fromDate": "20210216",
+        "hotel": "Ritz-Carlton",
+        "id": "{de24ebad-c8b8-4c36-9606-af38c21f3725}",
+        "price": 1284,
+        "toDate": "20210222",
+        "town": "Halfmoon Bay",
+        "type": "Hotel"
+    },
+    {
+        "company": "Hertz",
+        "fromDate": "20210216",
+        "id": "{5d43bd61-2a1c-479b-b658-f8077e390660}",
+        "pickupLocation": "San Francisco International Airport",
+        "price": 299,
+        "returnLocation": "San Francisco International Airport",
+        "toDate": "20210222",
+        "type": "RentalCar"
+    },
+    {
+        "airline": "United Airlines",
+        "fromDate": "20210222",
+        "fromDest": "SFO",
+        "id": "{6c78f584-586f-49eb-ab67-3e250c60ab1c}",
+        "price": 300,
+        "toDate": "20210222",
+        "toDest": "PHL",
+        "type": "Flight"
+    },
+    {
+        "fromDate": "20210222",
+        "hotel": "Courtyard Devon",
+        "id": "{9abe61d5-30e9-4760-bb5e-b26f720b2e95}",
+        "price": 390,
+        "toDate": "20210225",
+        "town": "Wayne",
+        "type": "Hotel"
+    },
+    {
+        "company": "Budget",
+        "fromDate": "20210222",
+        "id": "{4619bde4-fde4-49c3-95aa-f8fc2e604f69}",
+        "pickupLocation": "Philadelphia International Airport",
+        "price": 119,
+        "returnLocation": "Philadelphia International Airport",
+        "toDate": "20210225",
+        "type": "RentalCar"
+    },
+    {
+        "airline": "AirCanada",
+        "fromDate": "20210225",
+        "fromDest": "PHL",
+        "id": "{c1b4f919-353e-4506-98a4-2ebff08c846a}",
+        "price": 250.49,
+        "toDate": "20210225",
+        "toDest": "YUL",
+        "type": "Flight"
+    },
+    {
+        "fromDate": "20210225",
+        "hotel": "L'Hotel Montreal",
+        "id": "{ee2a7632-279d-4d86-a966-5157564a7f23}",
+        "price": 360.36,
+        "toDate": "20210228",
+        "town": "Montreal",
+        "type": "Hotel"
+    },
+    {
+        "airline": "Air Canada",
+        "fromDate": "20210228",
+        "fromDest": "YUL",
+        "id": "{e78423dd-5e9c-4894-ae6c-23095e0c81ac}",
+        "price": 1850,
+        "toDate": "20210301",
+        "toDest": "FRA",
+        "type": "Flight"
+    },
+    {
+        "airline": "Lufthansa",
+        "fromDate": "20210402",
+        "fromDest": "FRA",
+        "id": "{c5e30bca-40c2-4068-9e7b-c75ce3f1a469}",
+        "price": 1799,
+        "toDate": "20210402",
+        "toDest": "YUL",
+        "type": "Flight"
+    },
+    {
+        "fromDate": "20210402",
+        "hotel": "L'Hotel Montreal",
+        "id": "{a437382d-3bca-4b1b-864a-608686ba5e6a}",
+        "price": 245,
+        "toDate": "20210404",
+        "town": "Montreal",
+        "type": "Hotel"
+    },
+    {
+        "airline": "Delta Airlines",
+        "fromDate": "20210404",
+        "fromDest": "YUL",
+        "id": "{644ec941-7f0b-49e4-b2db-c9c1f4bd66d2}",
+        "price": 299,
+        "toDate": "20210404",
+        "toDest": "PHL",
+        "type": "Flight"
+    },
+    {
+        "fromDate": "20210405",
+        "hotel": "Courtyard Devon",
+        "id": "{8cba1bdc-d0a8-4eae-a4b6-ed9c202511c9}",
+        "price": 476,
+        "toDate": "20210408",
+        "town": "Wayne",
+        "type": "Hotel"
+    },
+    {
+        "company": "Budget",
+        "fromDate": "20210404",
+        "id": "{4cf0075c-acab-42d7-bb82-d70dced8a0a3}",
+        "pickupLocation": "Philadelphia International Airport",
+        "price": 166,
+        "returnLocation": "Philadelphia International Airport",
+        "toDate": "20210408",
+        "type": "RentalCar"
+    },
+    {
+        "airline": "Southwest Airlines",
+        "fromDate": "20210408",
+        "fromDest": "PHL",
+        "id": "{73e9e86c-8175-494f-be9f-1c01ad5f96ae}",
+        "price": 260.49,
+        "toDate": "20210408",
+        "toDest": "SFO",
+        "type": "Flight"
+    },
+    {
+        "fromDate": "20210408",
+        "hotel": "Crowne Plaza",
+        "id": "{6e27027f-11c8-4781-bac6-57782fead85f}",
+        "price": 510.36,
+        "toDate": "20210412",
+        "town": "PaloAlto",
+        "type": "Hotel"
+    },
+    {
+        "company": "Avis",
+        "fromDate": "20210408",
+        "id": "{631c91b4-005a-4f78-a250-043d0b1786e2}",
+        "pickupLocation": "San Francisco International Airport",
+        "price": 300,
+        "returnLocation": "San Francisco International Airport",
+        "toDate": "20210412",
+        "type": "RentalCar"
+    },
+    {
+        "airline": "Virgin America",
+        "fromDate": "20210412",
+        "fromDest": "SFO",
+        "id": "{690e1c33-d456-4964-86ca-7b21c666feae}",
+        "price": 133.2,
+        "toDate": "20210412",
+        "toDest": "SAN",
+        "type": "Flight"
+    },
+    {
+        "company": "Avis",
+        "fromDate": "20210412",
+        "id": "{462c1b7b-babb-4061-8533-25d5c25df3a7}",
+        "pickupLocation": "San Diego International Airport",
+        "price": 111.25,
+        "returnLocation": "Los Angeles International Airport",
+        "toDate": "20210415",
+        "type": "RentalCar"
+    },
+    {
+        "fromDate": "20210412",
+        "hotel": "Grand Pacific",
+        "id": "{071b03a9-da44-4278-9e3b-e73fd194ce8b}",
+        "price": 377.36,
+        "toDate": "20210415",
+        "town": "Carlsbad",
+        "type": "Hotel"
+    },
+    {
+        "airline": "Lufthansa",
+        "fromDate": "20210415",
+        "fromDest": "LAX",
+        "id": "{04bff65f-c9a0-4637-b8b5-c0034d758e14}",
+        "price": 2594.21,
+        "toDate": "20210416",
+        "toDest": "FRA",
+        "type": "Flight"
+    },
+    {
+        "airline": "Lufthansa",
+        "fromDate": "20210501",
+        "fromDest": "FRA",
+        "id": "{d2e2846e-c03a-465f-9c53-bc5b179849ac}",
+        "price": 2332.21,
+        "toDate": "20210502",
+        "toDest": "PVG",
+        "type": "Flight"
+    },
+    {
+        "fromDate": "20210502",
+        "hotel": "Shanghai Marriott",
+        "id": "{dde6cce5-c5a4-4950-8427-e0478c983fd5}",
+        "price": 1101.03,
+        "toDate": "20210510",
+        "town": "Shanghai",
+        "type": "Hotel"
+    },
+    {
+        "airline": "Lufthansa",
+        "fromDate": "20210510",
+        "fromDest": "PVG",
+        "id": "{34c873c8-7d90-4336-aeb0-aae228c7ff74}",
+        "price": 2463.02,
+        "toDate": "20210510",
+        "toDest": "FRA",
+        "type": "Flight"
+    },
+    {
+        "airline": "Austrian Airlines",
+        "fromDate": "20210301",
+        "fromDest": "FRA",
+        "id": "{b2d02007-de86-4d61-a716-3a3d3617909a}",
+        "price": 167.01,
+        "toDate": "20210301",
+        "toDest": "VIE",
+        "type": "Flight"
+    },
+    {
+        "company": "Sixt",
+        "fromDate": "20210301",
+        "id": "{48c239d6-96bf-40a8-b51d-6250b46f3b28}",
+        "pickupLocation": "Wien-Schwechat Flughafen",
+        "price": 65.01,
+        "returnLocation": "Wien-Schwechat Flughafen",
+        "toDate": "20210302",
+        "type": "RentalCar"
+    },
+    {
+        "fromDate": "20210301",
+        "hotel": "Hotel Kummer",
+        "id": "{e2cef6fd-b1e0-41ab-9f78-a94005331442}",
+        "price": 199.99,
+        "toDate": "20210302",
+        "town": "Wien",
+        "type": "Hotel"
+    },
+    {
+        "airline": "Austrian Airlines",
+        "fromDate": "20210302",
+        "fromDest": "VIE",
+        "id": "{ab6ad134-a39d-449f-839b-3f0ef5ae9e88}",
+        "price": 167.01,
+        "toDate": "20210302",
+        "toDest": "FRA",
+        "type": "Flight"
+    },
+    {
+        "airline": "Lufthansa",
+        "fromDate": "20210309",
+        "fromDest": "MUC",
+        "id": "{33d32419-7e9c-446e-b80c-4a62dcf8c83a}",
+        "price": 2504.01,
+        "toDate": "20210309",
+        "toDest": "PHX",
+        "type": "Flight"
+    },
+    {
+        "company": "Avis",
+        "fromDate": "20210309",
+        "id": "{b2452fc2-c28b-45ab-93dd-ef50a66a3974}",
+        "pickupLocation": "Phoenix Sky Harbor Int'l Airport",
+        "price": 423.01,
+        "returnLocation": "McCarran Intl Airport, Las Vegas",
+        "toDate": "20210313",
+        "type": "RentalCar"
+    },
+    {
+        "fromDate": "20210309",
+        "hotel": "Little America",
+        "id": "{25b9e249-3f58-4ce3-a177-cd4e106ef061}",
+        "price": 253.87,
+        "toDate": "20210311",
+        "town": "Flagstaff",
+        "type": "Hotel"
+    },
+    {
+        "fromDate": "20210311",
+        "hotel": "Bellagio",
+        "id": "{95c04a55-fc16-4af5-96f0-63fc41f80109}",
+        "price": 951.11,
+        "toDate": "20210313",
+        "town": "Las Vegas",
+        "type": "Hotel"
+    },
+    {
+        "airline": "Air Canada",
+        "fromDate": "20210313",
+        "fromDest": "LAS",
+        "id": "{5bf49dd4-f3ba-451a-a8bd-f136de898121}",
+        "price": 3104.01,
+        "toDate": "20210314",
+        "toDest": "FRA",
+        "type": "Flight"
+    },
+    {
+        "airline": "Lufthansa",
+        "fromDate": "20210904",
+        "fromDest": "FRA",
+        "id": "{ed698941-aeff-4729-8f27-889334a9f1cf}",
+        "price": 2892.04,
+        "toDate": "20210905",
+        "toDest": "GRU",
+        "type": "Flight"
+    },
+    {
+        "airline": "TAM Linhas Aereas",
+        "fromDate": "20210905",
+        "fromDest": "GRU",
+        "id": "{d371fc10-6e39-4523-9071-f04d513a2e66}",
+        "price": 234.61,
+        "toDate": "20210905",
+        "toDest": "POA",
+        "type": "Flight"
+    },
+    {
+        "company": "Avis",
+        "fromDate": "20210905",
+        "id": "{93b1c2d9-7eff-4e91-8198-67a934076173}",
+        "pickupLocation": "Porto Alegre Airport",
+        "price": 1345.72,
+        "returnLocation": "Porto Alegre Airport",
+        "toDate": "20210917",
+        "type": "RentalCar"
+    },
+    {
+        "fromDate": "20210905",
+        "hotel": "Plaza Sao Rafael",
+        "id": "{ef258b45-dffd-462c-a439-86a916abaf6f}",
+        "price": 2986.12,
+        "toDate": "20210917",
+        "town": "Porto Alegre",
+        "type": "Hotel"
+    },
+    {
+        "airline": "TAM Linhas Aereas",
+        "fromDate": "20210917",
+        "fromDest": "POA",
+        "id": "{3895d6e7-5e97-4b1f-b6a1-f010092db00e}",
+        "price": 224.13,
+        "toDate": "20210917",
+        "toDest": "GRU",
+        "type": "Flight"
+    },
+    {
+        "airline": "Lufthansa",
+        "fromDate": "20210917",
+        "fromDest": "GRU",
+        "id": "{7350183e-efcc-4a9d-a988-1a5f8ee9c5e7}",
+        "price": 2674.34,
+        "toDate": "20210918",
+        "toDest": "FRA",
+        "type": "Flight"
+    }
+]
